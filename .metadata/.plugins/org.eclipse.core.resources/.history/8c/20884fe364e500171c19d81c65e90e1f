@@ -1,0 +1,5 @@
+package com.virtualpairprogrammers.employeemanagement.domain;
+
+public class Employee {
+
+}

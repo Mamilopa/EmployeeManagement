@@ -1,0 +1,27 @@
+package com.virtualpairprogrammers.employeemanagement;
+
+import java.util.List;
+
+import com.virtualpairprogrammers.employeemanagement.domain.Employee;
+
+public class EmployeeManagementImplementation implements EmployeeManagementService {
+
+	@Override
+	public void registerEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Employee> getAllEmployees() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Employee> searchBySurname(String surname) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
